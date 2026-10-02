@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Slayer
 
 A third-person dragon combat game made in Unity. Battle an AI dragon using three
